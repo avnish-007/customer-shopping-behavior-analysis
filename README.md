@@ -58,3 +58,13 @@ jupyter notebook customer_shopping_behavior_analysis.ipynb
 The notebook currently covers data loading and cleaning. Next steps: revenue by
 category/season/state, subscription vs non-subscription behaviour, discount impact
 and customer segmentation.
+
+## License
+
+Released under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+This is a personal learning project. The code and analysis were written while
+following data analysis tutorials on YouTube, and the dataset is a public dataset
+used for practice — it is not my original work or a commercial product.
