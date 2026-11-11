@@ -11,10 +11,21 @@ venv/
 env/
 
 # Data / outputs
-*.png
-*.jpg
 *.pkl
 *.h5
+# Chart images (except the q1-q10 SQL result screenshots, which are part of the report)
+*.png
+*.jpg
+!q1.png
+!q2.png
+!q3.png
+!q4.png
+!q5.png
+!q6.png
+!q7.png
+!q8.png
+!q9.png
+!q10.png
 
 # OS / editor
 .DS_Store
